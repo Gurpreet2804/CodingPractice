@@ -1,1 +1,2 @@
 # CodingPractice
+My sample codes.
